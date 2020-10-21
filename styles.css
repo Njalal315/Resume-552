@@ -1,0 +1,33 @@
+h1 {
+    font-size:xx-large;
+    font-family:"animation-direction:reverse;";
+    text-align:center;
+}
+
+h2 {
+    color:darkgreen;
+    text-align:left;
+    font-size:x-large;
+}
+li {
+    font-size:large;
+}
+h3 {
+    font-size: x-large;
+    color:darkgreen;
+}
+h4 {
+    font-size:x-large;
+    color:darkgreen;
+}
+h5 {
+    font-size:x-large;
+    color:darkgreen;
+}
+a:link,a:visited{
+    backgroud:transparent;
+    color:red;
+}
+a:hover,a:active {
+    color:silver;
+}
